@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -ruq *.html
+cp -Ruq *.html
